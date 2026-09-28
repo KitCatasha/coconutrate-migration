@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+
+# Cloudflare / Wrangler local files
+.wrangler/
+.dev.vars
+.dev.vars.*
+.env
+.env.*
+!.env.example
+
+# Database / backups
+*.sql
+*.sql.gz
+*.zip
+*.tar
+*.tar.gz
+
+# Design source files not needed for deployment
+design-source/
+*.psd
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Local backup files
+*_bck.html
+*.bck.html
+*_bck_bck.html
+*_bck*
+*.bck*
+
+# Internal project documents
+DOCS/
+
+# Local Cloudflare configuration containing deployment-specific email
+wrangler.jsonc
