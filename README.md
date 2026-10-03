@@ -19,13 +19,7 @@ The migration focused on simplifying the hosting setup, replacing the previous b
 
 ## Tech Stack
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Cloudflare Workers
-- Cloudflare Email Routing
-- Wrangler
+HTML · CSS · JS · Bootstrap · Cloudflare Email Routing · Cloudflare Workers · Wrangler
 
 ## Background & Attribution
 
@@ -35,8 +29,6 @@ Coconutrate owns the original branding, website content, images, and other compa
 
 ## Licensing
 
-Coconutrate-specific code, content, branding, images, and other proprietary assets remain Coconutrate's property.
+Source code that is owned by or licensed for release by this project is available under the MIT License.
 
-Third-party libraries included in `public/vendor/` remain subject to their respective licenses and copyright notices.
-
-This repository is made publicly available primarily for portfolio, maintenance, and documentation purposes. No repository-wide open-source license is granted unless explicitly stated.
+The MIT License does not grant permission to use the Coconutrate name, logo, trademarks, product names, product information, research content, photographs, illustrations, packaging designs, or other proprietary brand assets.
