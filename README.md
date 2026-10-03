@@ -10,17 +10,12 @@ The migration focused on simplifying the hosting setup, replacing the previous b
 
 ## My Contributions
 
-- Migrated the website from Laravel/cPanel hosting to Cloudflare Workers
-- Adapted the existing website into a static Cloudflare-compatible structure
-- Configured deployment with Wrangler
-- Connected the custom domain to Cloudflare
-- Rebuilt the contact form using a Cloudflare Worker
-- Integrated Cloudflare Email Routing for contact-form inquiries
-- Added a new Sensory Profile page
-- Updated website content
-- Fixed the interactive Our Method section
-- Improved responsive styling and page layout
-- Maintained the original Coconutrate visual design throughout the migration
+- Migrated from Laravel/cPanel hosting to Cloudflare Workers
+- Configured deployment via Wrangler and connected the custom domain
+- Rebuilt the contact form using a Cloudflare Worker with Email Routing
+- Added a new Sensory Profile page and updated content
+- Fixed the interactive 
+- Improved responsive styling and layout
 
 ## Tech Stack
 
