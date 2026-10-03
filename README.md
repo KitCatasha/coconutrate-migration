@@ -32,3 +32,11 @@ Coconutrate owns the original branding, website content, images, and other compa
 Source code that is owned by or licensed for release by this project is available under the MIT License.
 
 The MIT License does not grant permission to use the Coconutrate name, logo, trademarks, product names, product information, research content, photographs, illustrations, packaging designs, or other proprietary brand assets.
+
+## License
+
+Source code that is owned by or licensed for release by this project is available under the [MIT License](LICENSE).
+
+The MIT License does not grant permission to use the Coconutrate name, logo, trademarks, product names, product information, research content, photographs, illustrations, packaging designs, or other proprietary brand assets.
+
+Original code, components, and designs created by other contributors remain subject to their original ownership and licensing terms. Third-party code and assets remain subject to their respective licenses and terms.
